@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
--  Unity ver. 2019.3 or higher
+-  Unity ver. 2019.3.12f1 or higher
 
 ### Running the project
 
